@@ -1,8 +1,10 @@
-# ProductInfo
+# Product Info
 This repositort is the official source for information on products sold by [Azzy's Electronics](https://www.tindie.com/stores/drazzy/), my Tindie store. All official information will be contained here; the old official website information pages will be shut down, as it has been found that, in practice, maintenance of the site proved too labor intensive, and consequently, it was always out of date. Currently this is in an early stage of construction. 
 
 ### Issues are enabled here 
 **Please do not hesitate to open one** if you find inaccurate information here, or if a product is not adequately described here. Of course you can also email me (spencekonde@gmail.com) or use the Tindie messaging system. This is preferred for documentation or product page problems. Issues are publically viewable - to protect your privacy, please use email or Tindie message for problems with an order (Tindie message has the benefit of being viewable by Tindie support staff in case you are not satisfied with my response and feel a need to escalate; I strive for customer satisfaction, and this has rarely happened in the history of my store)
+
+
 
 ## Product Catalog
 
