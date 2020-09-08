@@ -7,6 +7,9 @@ This is important for international shipments, particularly to countries like th
 
 Similarly, if your address is particularly long, it may not clear where the "address" ends and the city or province begins. Is that a long address, city name, and no province, or shorter address, city, province? Again, clarify if it may be confusing. 
 
+## Non-english characters are not accepted
+Addresses containing non-english characters are not accepted by our carrier (accents are usually okay; where they aren't, I replace them with the non-accented letter); please use the romanized form of your address. 
+
 ## Unless shipping to a commercial address, leave company blank
 Including a company name when shipping to a commercial address has (rarely) led to packages being undeliverable - usually it works, but occasionally it doesn't, and packages get returned to me. 
 
@@ -34,6 +37,7 @@ While the COVID-19 situation has thrown a monkey-wrench into all international s
 * Most of the rest of the world: 2-3 weeks
 * South and Central America (even Mexico, just across the border): 4-8 weeks. Customs in these regions seems to just sit packages for weeks at a time, almost every time. It is not uncommon for packages to go for a month without a tracking event! 
 * Africa and India: 4-8 weeks - I don't know how much of this is capricious customs officials, and how much is the state of logistics in general in these regions. 
+* I have not shipped sufficient volume to other countries to have a good sense of shipping times.
 Of course, since COVID, these times are often significantly longer. Australia's postal service seems particularly hard-hit; a package shipped in early June finally arrived at the end of August - the customer was very understanding, noting that a domestic package shipped back in March had only recently arrived. **before you order, please check https://about.usps.com/newsroom/service-alerts/international/welcome.htm** for information on shipping delays to your country 
 
 ## Customs can arbitrarily delay packages
