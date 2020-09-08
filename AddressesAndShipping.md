@@ -7,6 +7,9 @@ This is important for international shipments, particularly to countries like th
 
 Similarly, if your address is particularly long, it may not clear where the "address" ends and the city or province begins. Is that a long address, city name, and no province, or shorter address, city, province? Again, clarify if it may be confusing. 
 
+## I cannot lie on customs forms
+While, obviously, I declare the lowest value I can legally, unlike vendors shipping from China, I cannot straight up falsify customs declarations. Depending on the import laws of the destination country, you may be responsible for import duties. 
+
 ## Non-english characters are not accepted
 Addresses containing non-english characters are not accepted by our carrier (accents are usually okay; where they aren't, I replace them with the non-accented letter); please use the romanized form of your address. 
 
