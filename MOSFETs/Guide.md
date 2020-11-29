@@ -65,7 +65,7 @@ If you're using Arduino analogWrite or similar, which gives you 500 Hz (8 MHz sy
 
 Every MOSFET datasheet has a graph like this:
 
-[!Gate Charge](GateCharge.png)
+![Gate Charge](GateCharge.png)
 
 **In Words** As charge flows into the gate (through the source impedance and series resistors), the gate voltage initially rises like the voltage on a capacitor - this is the gate-to-source charge Qgs (sometimes conveniently given as capacitance, Cgs). Then, current begins to flow from drain to source; as charge continues flowing into the gate, the voltage stops increasing - this is is due to gate-to-drain ("Miller") charge - as Vds drops, the incoming charge must overcome the capacitance between the gate and the (rapidly falling) drain voltage. Once the drain voltage is close to the source voltage, Vgs once more rises linearly with the charge on the gate. Note that while the graphs like this found in datasheets are a simplification (the transitions are not instantaneous in reality), that basic shape can be seen on an oscilloscope. These three phases are also amenable to (relatively) straightforward modeling: the first and third regimes can be approximated as an RC-circuit, while within the second one, the "miller plateau", the current in is constant, can be calculated from Ohm's law and Qgd, and the key parameter is it's duration. 
 
