@@ -22,7 +22,7 @@ We sell a number of breakout boards with 4 "beefy" MOSFETs mounted on them; we s
 
 We also sell SOT-23 MOSFETs on tiny little breakout boards - it is truly a testament to modern semiconductor technolagy that a rice-grain sized transistor can switch a 6 amp load at under 20 mOhm on-state resistance, in response to only a couple of volts on it's gate!
 
-See [**MOSFET product page**](MOSFETs.md) for more information.
+See [**MOSFET product page**](https://github.com/SpenceKonde/ProductInfo/tree/master/MOSFETs) for more information (note - the product listing page is yet to be written, only the sizing guide is ready. 
 
 ## Special Orders
 We can do special orders (such as a different part or parts mounted on one of our breakout boards) as well as custom design work. Email SpenceKonde@gmail.com for more information.
